@@ -1,4 +1,4 @@
-   			--NQueens's Poblem--
+   			--**NQueens's Poblem**--
 
 autoria: Mateus Augusto Gomes
 
