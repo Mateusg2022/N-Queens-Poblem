@@ -16,6 +16,7 @@ Ou seja:
 		- 2 ou mais rainhas na mesma coluna
 		- 2 ou mais rainhas na mesma diagonal
   
+  
 O programa em C++ encontra todas as soluçoes e as imprime na saída padrão, com exceção da primeira,
 que é impressa no arquivo 'solucao.txt'. Isso é feito para que o programa em python possa
 usar essa solucao para um plot visual ao usuário.
